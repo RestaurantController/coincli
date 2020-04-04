@@ -12,3 +12,8 @@ CoinCLI is based on BitPay's rates API.
 For all commands, type:
 <br>
 <code>coincli -h</code>
+<br>
+To install from source, type:
+<code>python setup.py install</code>
+<br>
+A PyPI project is coming soon!
