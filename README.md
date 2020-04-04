@@ -17,6 +17,8 @@ To install with pip, type:
 <br>
 <code>pip install coincli</code>
 <br>
+The pip installer might have issues. If that happens, try installing from source.
+<br>
 To install from source, type:
 <code>python setup.py install</code>
 <br>
