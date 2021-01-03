@@ -13,12 +13,6 @@ For all commands, type:
 <br>
 <code>coincli -h</code>
 <br>
-To install with pip, type:
-<br>
-<code>pip install coincli</code>
-<br>
-<b>The pip installer might have issues. If that happens, try installing from source.</b>
-<br>
 To install from source, type:
 <code>python setup.py install</code>
 <br>
